@@ -1,0 +1,162 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: rgb(51, 50, 50);
+    font-size: 50px;
+    font-family: 'Lobster', cursive;   
+}
+
+.red-color{
+    color: rgb(207, 32, 32);
+}
+
+.border-line{
+    border-left: 4px solid;
+    border-image: linear-gradient(#EB3349, #f45c43);
+    border-image-slice: 1;
+    padding-left: 20px;  
+}
+
+.fexiable-content{
+    display: flex;
+    padding-top: 50px;
+   
+}
+
+.top-text{
+    margin-bottom: 50px;
+}
+.text-line{
+    padding-top: 40px;
+    color: rgb(63, 62, 62);
+    text-align: justify;
+}
+
+.top-class{
+   width: 50%;
+   padding-left: 80px;
+   
+}
+.top-class img{
+    width: 70%;    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#EB3349, 
+    #f45c43);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px ; 
+}
+.text-down{
+   padding-top: 20px;
+}
+
+/* middle banner */
+
+.blue-color{
+    color: rgb(11, 11, 53);
+}
+.middle-line{
+    text-align: center;
+}
+
+.illustrator-class{
+    height: 100px;
+    width: 100px;
+}
+
+.buttom-class{
+    width: 40%;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    text-align: center;
+    color: rgb(39, 39, 39);
+    background-color: rgb(176, 195, 199);
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgb(85, 82, 82);
+}
+
+.lower-class{
+    width: 40%;
+    padding-left: 30px;
+    padding-top: 100px;
+   color: rgb(61, 59, 59);
+}
+
+.lower-class img{
+    width: 70%;
+    padding-left:80px;
+    padding-bottom: 80px;
+}
+
+.lower-banner{
+    background-image: url(./images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.topdown-class{
+  width: 40%;
+  padding-left: 100px;
+  color: rgb(61, 61, 61);
+  text-align: justify;
+ 
+}
+.topdown-class img{
+    width: 70%;
+    padding-left: 80px;
+    padding-bottom: 80px;
+   
+}
+.topdown-banner{
+    background-image: url(./images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 93% 71%; 
+}
+
+.toplast-class img{
+    width: 70%;
+    padding-left: 100px;
+    padding-bottom: 80px;
+
+}
+
+.toplast-banner{
+    background-image: url(./images/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: 2% 5%;
+}
+.toplast-class{
+    background-image: url(./images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: 1% 55%;
+}
+
+.text{
+    font-family: 'Lobster', cursive;   
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    color: rgb(192, 192, 192);
+}
+#flow-content{
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    background-color: black;
+
+
+}
+.info{
+    color: rgb(206, 199, 199);
+    text-align: center;
+    padding-bottom: 20px;
+}
